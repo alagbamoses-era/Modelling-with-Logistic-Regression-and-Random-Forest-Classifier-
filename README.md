@@ -12,7 +12,7 @@ You will be using this data to create machine learning models to classify the ri
 
 In the `Generator` folder in `Resources`, there is a [GenerateData.ipynb](/Resources/Generator/GenerateData.ipynb) notebook that will download data from LendingClub and output two CSVs: 
 
-* `2019loans.csv`
+* `2019loans.csv` 
 * `2020Q1loans.csv`
 
 You will be using an entire year's worth of data (2019) to predict the credit risk of loans from the first quarter of the next year (2020).
